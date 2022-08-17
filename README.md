@@ -48,5 +48,4 @@
 
 <br>
 
-<h6 align="center"> <i>#                                   STAY TUNED FOR MORE</i>  </h6> 
-![120064592-a5c83480-c075-11eb-89c1-78732ecaf8d3](https://gitlab.com/ORCA666/kcthijack/-/raw/main/images/PP.png)
+
